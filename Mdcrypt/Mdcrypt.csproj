@@ -11,4 +11,7 @@
 		<OutputPath>..\bin\$(Configuration)</OutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="dnlib" Version="3.3.1" />
+	</ItemGroup>
 </Project>

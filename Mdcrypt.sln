@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mdcrypt", "Mdcrypt\Mdcrypt.csproj", "{8066C081-3E88-4A80-B0E1-1565EF21BF73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mdcrypt.DevTest", "Mdcrypt.DevTest\Mdcrypt.DevTest.csproj", "{A96327A7-5184-4B19-BC5F-1774E9961592}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{8066C081-3E88-4A80-B0E1-1565EF21BF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8066C081-3E88-4A80-B0E1-1565EF21BF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8066C081-3E88-4A80-B0E1-1565EF21BF73}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A96327A7-5184-4B19-BC5F-1774E9961592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A96327A7-5184-4B19-BC5F-1774E9961592}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A96327A7-5184-4B19-BC5F-1774E9961592}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A96327A7-5184-4B19-BC5F-1774E9961592}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
